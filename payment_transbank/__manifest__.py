@@ -1,8 +1,9 @@
 {
     'name': 'Payment Provider: Transbank',
-    'version': '19.0.1.0.1',
+    'version': '1.0.1',
     'category': 'Accounting/Payment Providers',
-    'author': 'Héctor Aular',
+    'author': 'Héctor Aular, Blanco Martín y Asociados SpA',
+    'website': 'https://www.bmya.cl',
     'sequence': 350,
     'summary': 'A Chilean payment provider covering Webpay Plus.',
     'depends': ['payment'],
