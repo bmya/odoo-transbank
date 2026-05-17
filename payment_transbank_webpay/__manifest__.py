@@ -1,8 +1,9 @@
 {
     'name': 'Transbank Webpay Plus',
-    'version': '19.0.1.0.1',
+    'version': '1.0.1',
     'category': 'Accounting/Payment Providers',
-    'author': 'Héctor Aular',
+    'author': 'Héctor Aular, Blanco Martín y Asociados SpA',
+    'website': 'https://www.bmya.cl',
     'summary': 'Adds Webpay Plus payment method to Transbank provider.',
     'depends': ['payment_transbank'],
     'data': [
